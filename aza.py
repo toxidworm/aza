@@ -1,7 +1,6 @@
 import argparse
 import base64
 import os
-import binascii
 from colorama import Fore, Back, Style, init
 if os.name == 'nt':
 	init()
